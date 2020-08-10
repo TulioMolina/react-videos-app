@@ -11,4 +11,4 @@ A [React](https://reactjs.org/) SPA that fetches videos from [youtube API](https
 - Install dependencies: `npm install`
 - Run locally on port 3000: `npm start`
 
-Deployed app at this [link](https://tm-react-videos-app.herokuapp.com/)
+Deployed app at this [link](https://tm-react-videos-app.herokuapp.com/).
