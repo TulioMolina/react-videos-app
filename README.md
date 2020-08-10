@@ -1,5 +1,5 @@
 # react-videos-app
-A [React](https://reactjs.org/) SPA that fetches videos from [youtube API](https://developers.google.com/youtube/v3).  
+A [React](https://reactjs.org/) SPA that fetches videos from [youtube API](https://developers.google.com/youtube/v3). It was deployed to [Heroku](https://devcenter.heroku.com/).
 
 ## Technologies
 - [React](https://reactjs.org/), [Create React App](https://github.com/facebook/create-react-app)
